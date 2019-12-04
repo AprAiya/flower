@@ -35,7 +35,7 @@
 export default {
   data () {
     return {
-      title_name: "往期精彩",
+      title_name: "专栏：市省花",
       grids: [
         {title:"亲情",image:"/static/images/1.png"},
         {title:"爱情",image:"/static/images/2.png"},
@@ -43,15 +43,16 @@ export default {
         {title:"其他",image:"/static/images/4.png"}
       ],
       top: [
-        {name:"店名1",address:"地址1",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍1"},
-        {name:"店名2",address:"地址2",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍2"},
-        {name:"店名3",address:"地址3",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍3"},
-        {name:"店名4",address:"地址4",image:"https://i.loli.net/2017/08/21/599a521472424.jpg",remark:"介绍4"}
+        {name:"湖北省",address:"梅花（蔷薇科杏属植物）一般指梅（蔷薇科杏属植物）",image:"/static/images/湖北.jpg",remark:"梅花"},
+        {name:"海南省",address:"三角梅一般指叶子花（中央种子目紫茉莉科植物）",image:"/static/images/海南.jpg",remark:"三角梅"},
+        {name:"香港",address:"紫荆花（苏木科羊蹄甲属植物）一般指红花羊蹄甲",image:"/static/images/香港.jpg",remark:"紫荆花"},
+        {name:"澳门",address:"荷花 属毛茛目睡莲科，是莲属二种植物的通称。",image:"/static/images/澳门.jpg",remark:"荷花"}
       ],
       imgUrls: [
-        'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
-        'https://images.unsplash.com/photo-1551214012-84f95e060dee?w=640',
-        'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
+      //   'https://images.unsplash.com/photo-1551334787-21e6bd3ab135?w=640',
+      //   'https://images.unsplash.com/photo-1551214012-84f95e060dee?w=640',
+      //   'https://images.unsplash.com/photo-1551446591-142875a901a1?w=640'
+           "/static/images/5.jpg"
       ],
       indicatorDots: false,
       autoplay: false,
