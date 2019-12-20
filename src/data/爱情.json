@@ -1,6 +1,8 @@
 [
-    {"name":"零食1","address":"地址1","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍1"},
-    {"name":"零食2","address":"地址2","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍2"},
-    {"name":"零食3","address":"地址3","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍3"},
-    {"name":"零食4","address":"地址4","image":"https://i.loli.net/2017/08/21/599a521472424.jpg","remark":"介绍4"}
+    {"name":"Top 1","address":"红色的它“热情似火”，能够表达最热烈、最炽热的爱情。所以它的花语是“挚爱”、“真爱”。","image":"/static/images/f1.jpg","remark":"红玫瑰"},
+    {"name":"Top 2","address":"粉色的它能够给人一种温馨、浪漫的感觉，适合布置在比较浪漫的场合之中。它的花语是“喜欢你那灿烂的微笑”。","image":"/static/images/f6.jpg","remark":"粉玫瑰"},
+    {"name":"Top 3","address":"白色的它“圣洁似雪”，有一种神圣的感觉，能够代表最美好、神圣的爱情。所以它的花语是“纯洁之爱”。","image":"/static/images/f7.jpg","remark":"白玫瑰"},
+    {"name":"Top 4","address":"紫色的它“高贵冷艳”，有一种忧郁、高雅、浪漫的气质。所以它的花语是“珍贵独特而又浪漫的爱情”。","image":"/static/images/f8.jpg","remark":"紫玫瑰"},
+    {"name":"Top 5","address":"代表奇迹与不可能实现的事。","image":"/static/images/f9.jpg","remark":"蓝玫瑰"},
+    {"name":"Top 6","address":"不贞、嫉妒，欢乐，高兴，道歉。对于友情，黄玫瑰代表纯洁的友谊和美好的祝福，对于爱情，黄玫瑰是分手的代表礼物代表再见，拒绝的爱。","image":"/static/images/f10.jpg","remark":"黄玫瑰"}
 ]
