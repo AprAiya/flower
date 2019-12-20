@@ -17,12 +17,14 @@
 export default {
   data () {
     return {
-       title_name: "专栏：市省花",
+       title_name: "每周推荐",
          top: [
-        {name:"湖北省",address:"梅花（蔷薇科杏属植物）一般指梅（蔷薇科杏属植物）",image:"/static/images/Hubei.jpg",remark:"梅花"},
-        {name:"海南省",address:"三角梅一般指叶子花（中央种子目紫茉莉科植物）",image:"/static/images/hainan.jpg",remark:"三角梅"},
-        {name:"香港",address:"紫荆花（苏木科羊蹄甲属植物）一般指红花羊蹄甲",image:"/static/images/HongKong.jpg",remark:"紫荆花"},
-        {name:"澳门",address:"荷花 属毛茛目睡莲科，是莲属二种植物的通称。",image:"/static/images/Macao.jpg",remark:"荷花"}
+        {name:"爱情之花",address:"再多一点点距离，我就能靠近你。清晰甜美的空气里，爱你到不能呼吸。",image:"/static/images/f1.jpg",remark:"红玫瑰"},
+        {name:"亲情之花",address:"有个地方，是永远可以安然甜睡的港湾，那就是—父母的怀抱。",image:"/static/images/f2.jpg",remark:"康乃馨"},
+        {name:"友情之花",address:"我携满天星辰赠你，好教你不逊色人间错落烟火；只有这满天星辰，足够与你相配。",image:"/static/images/f3.jpg",remark:"满天星"},
+        {name:"道歉之花",address:"感受生命的豁达和从容，敞开心扉，品味岁月静好，浅笑前行。",image:"/static/images/f4.jpg",remark:"向日葵"},
+        {name:"探病之花",address:"真心的祝福，不需要千言万语，只愿你岁岁平安，早日康复！",image:"/static/images/f5.jpg",remark:"百   合"}
+        
       ],
     }
   },
