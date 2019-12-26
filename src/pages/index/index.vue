@@ -8,7 +8,7 @@
     >
       <block v-for="img in imgUrls" :key="img">
         <swiper-item>
-          <image :src="img" style="width:100%" />
+          <image :src="img" style="width:100%;height:100%" />
         </swiper-item>
       </block>
     </swiper>
@@ -51,8 +51,8 @@ export default {
       ],
       imgUrls: [
            "/static/images/5.jpg",
-           "/static/images/6.jpg",
-           "/static/images/7.jpg"
+           "/static/images/7.jpg",
+           "/static/images/f7.jpg"
 
       ],
       indicatorDots: false,
